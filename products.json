@@ -1,0 +1,28 @@
+[
+  {
+    "name": "acelga",
+    "photo": "acelga.png",
+    "price": "2.22",
+    "weight": "1",
+    "amount" : "1"
+  },
+  {
+    "name": "alface americana des",
+    "photo": "alface_americana_desfolhada.png",
+    "price": "2.22",
+    "weight": "1",
+    "amount" : "1"
+  },  {
+    "name": "cebola branca cubo",
+    "photo": "cebola_branca_cubo.png",
+    "price": "2.22",
+    "weight": "1",
+    "amount" : "1"
+  },  {
+    "name": "cebola branca",
+    "photo": "cebola_branca_fatiada.png",
+    "price": "2.22",
+    "weight": "1",
+    "amount" : "1"
+  }
+]
